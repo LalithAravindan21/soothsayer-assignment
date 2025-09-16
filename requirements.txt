@@ -1,0 +1,9 @@
+streamlit
+pandas
+pdfplumber
+openpyxl
+huggingface_hub
+langchain
+langchain_openai
+langchain_community
+langchain_ollama
